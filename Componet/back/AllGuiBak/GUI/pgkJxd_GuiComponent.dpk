@@ -1,0 +1,45 @@
+package pgkJxd_GuiComponent;
+
+requires
+  rtl,
+  vcl,
+  vclie,
+  adortl,
+  dbrtl,
+  bdertl,
+  vclx,
+  xmlrtl,
+  tee,
+  vclactnband,
+  vcljpg,
+  vcldb,
+  VclSmp;
+
+contains
+  uJxdTrayIcon in 'Src\uJxdTrayIcon.pas',
+  uJxdGuiReg in 'Src\uJxdGuiReg.pas',
+  uJxdLyricShow in 'Src\uJxdLyricShow.pas',
+  uJxdParcontains
+  uJxdTrayIcon in 'Src\uJxdTrayIcon.pas',
+  uJxdGuiReg in 'Src\uJxdGuiReg.pas',
+  uJxdLyricShow in 'Src\uJxdLyricShow.pas',
+  uJxdParseLyric in 'Src\uJxdParseLyric.pas',
+  uJxdCustomButton in 'Src\uJxdCustomButton.pas',
+  uJxdProgressBar in 'Src\uJxdProgressBar.pas',
+  uJxdGradientPanel in 'Src\uJxdGradientPanel.pas',
+  uJxdParseGradient in 'Src\uJxdParseGradient.pas',
+  uJxdGradientButton in 'Src\uJxdGradientButton.pas',
+  uJxdEdit in 'Src\uJxdEdit.pas',
+  uJxdCommonMode1 in 'Src\uJxdCommonMode1.pas',
+  uJxdHtmlEdit in 'Src\uJxdHtmlEdit.pas',
+  uJxdScrollBar in 'Src\uJxdScrollBar.pas',
+  uJxdGuiDef in 'Src\uJxdGuiDef.pas',
+  uStringHandle in '..\..\Sub\uStringHandle.pas',
+  uBitmapHandle in '..\..\Sub\uBitmapHandle.pas',
+  uConversion in '..\..\Sub\uConversion.pas',
+  uJxdButton in 'Src\uJxdButton.pas',
+  uJxdCheckButton in 'Src\uJxdCheckButton.pas',
+  uJxdComboBox in 'Src\uJxdComboBox.pas',
+  uKKCustomPanel in 'Src\uKKCustomPanel.pas';
+
+end.

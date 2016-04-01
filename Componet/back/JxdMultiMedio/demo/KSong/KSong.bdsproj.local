@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010-07-01 14:56:10.984.pas,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\demo\KSong\uMain.pas</Transaction>
+    <Transaction>2010-07-01 14:56:10.984.dfm,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.dfm=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\demo\KSong\uMain.dfm</Transaction>
+    <Transaction>2010-07-01 14:56:14.312.bdsproj,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Project1.bdsproj=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\demo\KSong\KSong.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

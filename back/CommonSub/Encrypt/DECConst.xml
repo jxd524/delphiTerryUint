@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<namespace name="DECConst">
+  <const name="sProtectionCircular" type="string" resourcestring="true">
+    <value>
+      Circular Protection detected, Protection Object is invalid.
+    </value>
+  </const>
+  <const name="sStringFormatExists" type="string" resourcestring="true">
+    <value>
+      String Format &quot;%d&quot; not exists.
+    </value>
+  </const>
+  <const name="sInvalidStringFormat" type="string" resourcestring="true">
+    <value>
+      Input is not an valid %s Format.
+    </value>
+  </const>
+  <const name="sInvalidFormatString" type="string" resourcestring="true">
+    <value>
+      Input can not be convert to %s Format.
+    </value>
+  </const>
+  <const name="sFMT_COPY" type="string" resourcestring="true">
+    <value>
+      copy Input to Output
+    </value>
+  </const>
+  <const name="sFMT_HEX" type="string" resourcestring="true">
+    <value>
+      Hexadecimal
+    </value>
+  </const>
+  <const name="sFMT_HEXL" type="string" resourcestring="true">
+    <value>
+      Hexadecimal lowercase
+    </value>
+  </const>
+  <const name="sFMT_MIME64" type="string" resourcestring="true">
+    <value>
+      MIME Base 64
+    </value>
+  </const>
+  <const name="sFMT_UU" type="string" resourcestring="true">
+    <value>
+      UU Coding
+    </value>
+  </const>
+  <const name="sFMT_XX" type="string" resourcestring="true">
+    <value>
+      XX Coding
+    </value>
+  </const>
+  <const name="sInvalidKey" type="string" resourcestring="true">
+    <value>
+      Encryptionkey is invalid
+    </value>
+  </const>
+  <const name="sInvalidCRC" type="string" resourcestring="true">
+    <value>
+      Encrypted Data is corrupt, invalid Checksum
+    </value>
+  </const>
+  <const name="sInvalidKeySize" type="string" resourcestring="true">
+    <value>
+      Length from Encryptionkey is invalid.
+
+Keysize for %s must be to %d-%d bytes
+    </value>
+  </const>
+  <const name="sNotInitialized" type="string" resourcestring="true">
+    <value>
+      %s is not initialized call Init() or InitKey() before.
+    </value>
+  </const>
+  <const name="sInvalidMACMode" type="string" resourcestring="true">
+    <value>
+      Invalid Ciphermode selected to produce a MAC.
+
+Please use Modes cmCBC, cmCTS, cmCFB, cmCBCMAC, cmCFBMAC or cmCTSMAC for CalcMAC.
+    </value>
+  </const>
+  <const name="sCantCalc" type="string" resourcestring="true">
+    <value>
+      Invalid Ciphermode selected.
+    </value>
+  </const>
+  <const name="sInvalidRandomStream" type="string" resourcestring="true">
+    <value>
+      Invalid Random Data detected.
+    </value>
+  </const>
+  <const name="sRandomDataProtected" type="string" resourcestring="true">
+    <value>
+      Random Data are protected.
+    </value>
+  </const>
+  <const name="sBBSnotSeekable" type="string" resourcestring="true">
+    <value>
+      BBS Generator is not seekable.
+    </value>
+  </const>
+  <const name="sBigNumDestroy" type="string" resourcestring="true">
+    <value>
+      Used Bignums in a BBS Generator can be not destroy.
+    </value>
+  </const>
+  <const name="sIndexOutOfRange" type="string" resourcestring="true">
+    <value>
+      BBS Error: Index out of Range.
+    </value>
+  </const>
+  <const name="sBigNumAborted" type="string" resourcestring="true">
+    <value>
+      BigNum aborted by User.
+    </value>
+  </const>
+  <const name="sErrGeneric" type="string" resourcestring="true">
+    <value>
+      Bignum Generic Error.
+    </value>
+  </const>
+  <const name="sErrAsInteger" type="string" resourcestring="true">
+    <value>
+      BigNum overflow in AsInteger.
+    </value>
+  </const>
+  <const name="sErrAsComp" type="string" resourcestring="true">
+    <value>
+      BigNum overflow in AsComp.
+    </value>
+  </const>
+  <const name="sErrAsFloat" type="string" resourcestring="true">
+    <value>
+      BigNum overflow in AsFloat.
+    </value>
+  </const>
+  <const name="sNumberFormat" type="string" resourcestring="true">
+    <value>
+      BigNum invalid Numberformat for Base %d.
+
+Value: %s
+    </value>
+  </const>
+  <const name="sDivByZero" type="string" resourcestring="true">
+    <value>
+      BigNum division by Zero.
+    </value>
+  </const>
+  <const name="sStackIndex" type="string" resourcestring="true">
+    <value>
+      BigNum Stackindex out of range.
+    </value>
+  </const>
+  <const name="sLoadFail" type="string" resourcestring="true">
+    <value>
+      BigNum invalid data format.
+    </value>
+  </const>
+  <const name="sParams" type="string" resourcestring="true">
+    <value>
+      BigNum parameter error.
+
+%s.
+    </value>
+  </const>
+  <const name="sJacobi" type="string" resourcestring="true">
+    <value>
+      BigNum Jacobi(A, B), B must be &gt;= 3, Odd and B &lt; A
+    </value>
+  </const>
+  <const name="sSPPrime" type="string" resourcestring="true">
+    <value>
+      BigNum IsSPPrime(A, Base), |Base| must be &gt; 1, |A| &gt; |Base| and |A| &gt;= 3
+    </value>
+  </const>
+  <const name="sSetPrime" type="string" resourcestring="true">
+    <value>
+      BigNum SetPrime(Base, Residue, Modulus), Invalid Parameter.
+
+%s.
+    </value>
+  </const>
+  <const name="sSetPrimeSize" type="string" resourcestring="true">
+    <value>
+      Value must be greater 32767
+    </value>
+  </const>
+  <const name="sSetPrimeParam" type="string" resourcestring="true">
+    <value>
+      GCD(Residue, Modulus) must be 1 and Residue &lt; Modulus
+    </value>
+  </const>
+  <const name="sSqrt" type="string" resourcestring="true">
+    <value>
+      BigNum Sqrt(A) A must be position
+    </value>
+  </const>
+  <const name="sExpMod" type="string" resourcestring="true">
+    <value>
+      BigNum ExpMod(E, M) M must be positive
+    </value>
+  </const>
+  <const name="sCalcName" type="string" resourcestring="true">
+    <value>
+      Calculation No %d
+    </value>
+  </const>
+  <const name="sInvalidState" type="string" resourcestring="true">
+    <value>
+      Invalid Protector State detected.
+    </value>
+  </const>
+  <const name="sIDOutOfRange" type="string" resourcestring="true">
+    <value>
+      Protector Error: ID is out of Range.
+    </value>
+  </const>
+  <const name="sInvalidZIPData" type="string" resourcestring="true">
+    <value>
+      Invalid compressed Data detected.
+    </value>
+  </const>
+  <const name="sInvalidChallenge" type="string" resourcestring="true">
+    <value>
+      Challenge is not an RFC2289 Format.
+    </value>
+  </const>
+  <const name="sInvalidPassword" type="string" resourcestring="true">
+    <value>
+      Invalid Passphraselength, must be more than 9 Chars.
+    </value>
+  </const>
+  <const name="sInvalidSeed" type="string" resourcestring="true">
+    <value>
+      Invalid Seed Value in OTPCalc.
+    </value>
+  </const>
+  <const name="sInvalidCalc" type="string" resourcestring="true">
+    <value>
+      Invalid Parameters in OTPCalc.
+    </value>
+  </const>
+  <const name="sInvalidDictionary" type="string" resourcestring="true">
+    <value>
+      Used Dictionary in %s is invalid.
+    </value>
+  </const>
+  <const name="sOTPIdent" type="string" resourcestring="true">
+    <value>
+      otp-
+    </value>
+  </const>
+  <const name="sOTPExt" type="string" resourcestring="true">
+    <value>
+      ext
+    </value>
+  </const>
+  <const name="sOTPWord" type="string" resourcestring="true">
+    <value>
+      word:
+    </value>
+  </const>
+  <const name="sOTPHex" type="string" resourcestring="true">
+    <value>
+      hex:
+    </value>
+  </const>
+  <const name="sSKeyIdent" type="string" resourcestring="true">
+    <value>
+      s/key
+    </value>
+  </const>
+</namespace>

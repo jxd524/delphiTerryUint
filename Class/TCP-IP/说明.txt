@@ -1,0 +1,2 @@
+FTP上传单元 uJxdFtpUpTask.pas uJxdFtpUpTaskManage.pas 
+临时存放在TCP-IP目录下，有时间应该把它们集成到P2SPBasic的Down项目中。以方便下载

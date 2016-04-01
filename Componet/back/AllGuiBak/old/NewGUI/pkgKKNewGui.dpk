@@ -1,0 +1,54 @@
+package pkgKKNewGui;
+
+{$R *.res}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  vcl,
+  TntUnicodeVcl_R90;
+
+contains
+  uKKRegister in 'src\uKKRegister.pas',
+  uKKCustomButton in 'src\uKKCustomButton.pas',
+  uKKBitmapHandle in 'src\uKKBitmapHandle.pas',
+  uKKCustomSplitter in 'src\uKKCustomSplitter.pas',
+  uKKComboBox in 'src\uKKComboBox.pas',
+  uKKEdit in 'src\uKKEdit.pas',
+  uKKCustomPanel in 'src\uKKCustomPanel.pas',
+  uKKPanel in 'src\uKKPanel.pas',
+  uKKTrackBar in 'src\uKKTrackBar.pas',
+  uKKCustomScrollBar in 'src\uKKCustomScrollBar.pas',
+  uKKScrollBar in 'src\uKKScrollBar.pas',
+  uKKSplitter in 'src\uKKSplitter.pas',
+  uKKStringGrid in 'src\uKKStringGrid.pas',
+  uKKStreatchPanel in 'src\uKKStreatchPanel.pas',
+  uKKTrayIcon in 'src\uKKTrayIcon.pas',
+  uKKGuiDef in 'src\uKKGuiDef.pas',
+  uKKButton in 'src\uKKButton.pas',
+  uKKCheckButton in 'src\uKKCheckButton.pas',
+  uKKCustomTrackBar in 'src\uKKCustomTrackBar.pas',
+  uKKLabel in 'src\uKKLabel.pas';
+
+end.

@@ -1,0 +1,43 @@
+2010年06月30日 15:29:41    use overlay filter: Rgb24 format subtype
+2010年06月30日 15:29:47    无法创建录制回路
+2010年06月30日 15:31:17    use overlay filter: Rgb24 format subtype
+2010年06月30日 15:35:13    use overlay filter: Rgb24 format subtype
+2010年06月30日 15:52:17    use overlay filter: Rgb24 format subtype
+2010年06月30日 15:53:12    use overlay filter : Yuy2 format subtype
+2010年06月30日 16:02:29    use overlay filter : Yuy2 format subtype
+2010年06月30日 16:11:10    use overlay filter : Yuy2 format subtype
+2010年06月30日 16:29:50    use overlay filter: Rgb24 format subtype
+2010年06月30日 16:29:58    无法创建录制回路
+2010年06月30日 16:31:14    use overlay filter: Rgb24 format subtype
+2010年06月30日 17:52:06    use overlay filter: Rgb24 format subtype
+2010年06月30日 18:25:36    use overlay filter: Rgb24 format subtype
+2010年06月30日 18:26:14    use overlay filter: Rgb24 format subtype
+2010年06月30日 18:27:56    use overlay filter: Rgb24 format subtype
+2010年06月30日 18:37:46    use overlay filter: Rgb24 format subtype
+2010年06月30日 18:38:16    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:01:04    please set video capture frist
+2010年07月01日 10:03:50    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:04:25    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:05:16    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:06:01    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:10:01    use overlay filter : Yuy2 format subtype
+2010年07月01日 10:11:12    use overlay filter : Yuy2 format subtype
+2010年07月01日 10:11:24    use overlay filter : Yuy2 format subtype
+2010年07月01日 10:11:30    use overlay filter : Yuy2 format subtype
+2010年07月01日 10:12:27    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:12:33    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:13:00    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:15:48    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:15:53    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:17:29    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:17:33    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:17:40    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:17:45    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:17:56    use overlay filter : Yuy2 format subtype
+2010年07月01日 10:18:05    use overlay filter : Yuy2 format subtype
+2010年07月01日 10:22:01    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:31:26    use overlay filter: Rgb24 format subtype
+2010年07月01日 10:33:54    use overlay filter: Rgb24 format subtype
+2010年07月19日 14:11:27    use overlay filter: Rgb24 format subtype
+2010年07月20日 15:31:36    use overlay filter: Rgb24 format subtype
+2010年07月25日 22:05:56    use overlay filter: Rgb24 format subtype

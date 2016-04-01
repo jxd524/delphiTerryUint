@@ -1,0 +1,13 @@
+package pgkJxd_AppComponent;
+
+requires
+  rtl,
+  vcl,
+  vcljpg;
+
+contains
+  uJxdAppReg in 'Src\uJxdAppReg.pas',
+  uJxdDialUp in 'Src\uJxdDialUp.pas',
+  uJxdVidGrab in 'Src\uJxdVidGrab.pas';
+
+end.

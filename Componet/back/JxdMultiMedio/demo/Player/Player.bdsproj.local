@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>2010-07-01 12:21:34.125.pas,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\demo\Player\uMain.pas</Transaction>
-    <Transaction>2010-07-01 12:21:34.125.dfm,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.dfm=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\demo\Player\uMain.dfm</Transaction>
-    <Transaction>2010-07-01 12:21:37.843.bdsproj,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Project1.bdsproj=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\demo\Player\Player.bdsproj</Transaction>
-  </Transactions>
-</BorlandProject>

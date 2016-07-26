@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>2010-06-30 15:21:15.421.pas,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\demo\RecordCap\uMain.pas</Transaction>
-    <Transaction>2010-06-30 15:21:15.421.dfm,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.dfm=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\demo\RecordCap\uMain.dfm</Transaction>
-    <Transaction>2010-06-30 15:21:19.906.bdsproj,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Project1.bdsproj=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\demo\RecordCap\RecordCap.bdsproj</Transaction>
-    <Transaction>2010-06-30 18:03:32.671.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\demo\RecordCap\Unit1.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\demo\RecordCap\uKBoxEffect.pas</Transaction>
-  </Transactions>
-</BorlandProject>

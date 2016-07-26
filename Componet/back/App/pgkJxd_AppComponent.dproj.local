@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>2008-02-20 17:24:09.734.pas,D:\My Documents\RAD Studio\Projects\Unit1.pas=D:\delpih\MyProjects\TerryUnit\Componet\App\Src\JxdAppReg.pas</Transaction>
-    <Transaction>2008-02-20 17:24:42.171.dproj,D:\My Documents\RAD Studio\Projects\Package1.dproj=D:\delpih\MyProjects\TerryUnit\Componet\App\pgkJxd_AppComponent.dproj</Transaction>
-    <Transaction>2008-02-20 17:25:34.484.pas,D:\delpih\MyProjects\TerryUnit\Componet\App\Src\DialUp.pas=D:\delpih\MyProjects\TerryUnit\Componet\App\Src\JxdDialUp.pas</Transaction>
-  </Transactions>
-</BorlandProject>

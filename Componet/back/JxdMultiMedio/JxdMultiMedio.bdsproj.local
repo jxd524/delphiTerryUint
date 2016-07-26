@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010-06-18 14:18:40.203.bdsproj,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Package1.bdsproj=E:\Delphi\TerryUnit\Componet\xdMultiMedio\xdMultiMedio.bdsproj</Transaction>
+    <Transaction>2010-06-18 14:20:56.750.pas,E:\Delphi\TerryUnit\Componet\xdMultiMedio\src\uKBoxREC.pas=E:\Delphi\TerryUnit\Componet\xdMultiMedio\src\uxdREC.pas</Transaction>
+    <Transaction>2010-06-22 09:40:45.953.pas,E:\Delphi\TerryUnit\Componet\xdMultiMedio\src\VideoFilter.pas=E:\Delphi\TerryUnit\Componet\xdMultiMedio\src\uxdOverlayMux.pas</Transaction>
+    <Transaction>2010-06-22 09:43:29.265.pas,E:\Delphi\TerryUnit\Componet\xdMultiMedio\src\uxdOverlayMux.pas=E:\Delphi\TerryUnit\Componet\xdMultiMedio\src\uxdOverlayMuxFilter.pas</Transaction>
+    <Transaction>2010-06-23 09:44:29.843.bdsproj,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\xdMultiMedio.bdsproj=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\JxdMultiMedio.bdsproj</Transaction>
+    <Transaction>2010-06-23 09:44:38.671.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uxdREC.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdREC.pas</Transaction>
+    <Transaction>2010-06-23 09:44:43.531.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uxdRegister.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdRegister.pas</Transaction>
+    <Transaction>2010-06-23 09:44:48.765.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uxdOverlayMuxFilter.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdOverlayMuxFilter.pas</Transaction>
+    <Transaction>2010-06-23 10:20:47.687.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\Unit1.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdAsfXml.pas</Transaction>
+    <Transaction>2010-06-23 14:59:07.593.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\Unit1.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdEffect.pas</Transaction>
+    <Transaction>2010-06-30 12:18:22.937.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdEffect.pas=</Transaction>
+    <Transaction>2010-06-30 12:18:25.156.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdOverlayMuxFilter.pas=</Transaction>
+    <Transaction>2010-06-30 12:18:42.687.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdREC.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdRecord.pas</Transaction>
+    <Transaction>2010-06-30 12:18:55.031.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdRecord.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdRecordCap.pas</Transaction>
+    <Transaction>2010-06-30 16:12:01.171.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uOverlayEffect.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdOverlayEffect.pas</Transaction>
+    <Transaction>2010-06-30 16:12:07.187.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uOverlayFilter.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdOverlayFilter.pas</Transaction>
+    <Transaction>2010-06-30 16:12:12.062.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uVideoFormat.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdVideoFormat.pas</Transaction>
+    <Transaction>2010-07-01 11:35:48.406.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\Unit1.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdPlayer.pas</Transaction>
+    <Transaction>2010-07-01 11:43:11.296.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\Balancer.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdAudioFilter.pas</Transaction>
+    <Transaction>2010-07-01 11:43:40.453.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdOverlayFilter.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdVideoFilter.pas</Transaction>
+    <Transaction>2010-07-01 11:44:10.125.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdAudioFilter.pas=</Transaction>
+    <Transaction>2010-07-01 14:14:07.687.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\Unit1.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdKSong.pas</Transaction>
+    <Transaction>2010-07-02 11:40:16.875.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\Unit1.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdDrawPanel.pas</Transaction>
+    <Transaction>2010-07-08 17:44:34.031.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdDrawPanel.pas=</Transaction>
+    <Transaction>2010-07-13 17:38:11.703.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdKSong.pas=</Transaction>
+    <Transaction>2010-07-15 09:51:41.734.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdKSong.pas=</Transaction>
+    <Transaction>2010-07-15 10:09:56.937.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdDrawPanel.pas=</Transaction>
+    <Transaction>2010-07-26 10:06:52.109.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdRegister.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdMedioRegister.pas</Transaction>
+    <Transaction>2010-07-26 10:50:34.296.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdKSong.pas=</Transaction>
+    <Transaction>2010-08-16 17:37:48.325.pas,E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\AudioMixer_2007.pas=E:\Delphi\TerryUnit\Componet\JxdMultiMedio\src\uJxdSystemAudio.pas</Transaction>
+  </Transactions>
+</BorlandProject>

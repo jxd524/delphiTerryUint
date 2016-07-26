@@ -1,0 +1,15 @@
+2010年07月01日 16:54:41    use overlay filter: Rgb24 format subtype
+2010年07月01日 17:01:41    use overlay filter: Rgb24 format subtype
+2010年07月01日 17:08:13    use overlay filter: Rgb24 format subtype
+2010年07月01日 17:08:42    use overlay filter: Rgb24 format subtype
+2010年07月01日 17:09:11    use overlay filter: Rgb24 format subtype
+2010年07月01日 17:09:47    use overlay filter: Rgb24 format subtype
+2010年07月01日 17:10:26    use overlay filter: Rgb24 format subtype
+2010年07月01日 17:11:32    use overlay filter: Rgb24 format subtype
+2010年07月01日 17:14:46    use overlay filter: Rgb24 format subtype
+2010年07月01日 17:15:22    use overlay filter: Rgb24 format subtype
+2010年07月01日 17:15:38    use overlay filter: Rgb24 format subtype
+2010年07月01日 17:19:12    use overlay filter: Rgb24 format subtype
+2010年07月01日 17:19:36    use overlay filter: Rgb24 format subtype
+2010年07月01日 17:22:53    use overlay filter: Rgb24 format subtype
+2010年07月02日 15:00:54    use overlay filter: Rgb24 format subtype

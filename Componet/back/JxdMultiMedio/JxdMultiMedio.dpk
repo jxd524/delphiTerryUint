@@ -1,0 +1,47 @@
+package JxdMultiMedio;
+
+{$R *.res}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'Jxd MultiMedio make by Terry 1.0'}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  vcl,
+  designide,
+  xmlrtl,
+  vclactnband,
+  vclx;
+
+contains
+  uJxdRecordCap in 'src\uJxdRecordCap.pas',
+  uJxdMedioRegister in 'src\uJxdMedioRegister.pas',
+  uJxdAsfXml in 'src\uJxdAsfXml.pas',
+  uJxdOverlayEffect in 'src\uJxdOverlayEffect.pas',
+  uJxdVideoFormat in 'src\uJxdVideoFormat.pas',
+  uJxdVideoFilter in 'src\uJxdVideoFilter.pas',
+  uJxdPlayer in 'src\uJxdPlayer.pas',
+  uJxdAudioFilter in 'src\uJxdAudioFilter.pas',
+  uJxdSystemAudio in 'src\uJxdSystemAudio.pas';
+
+end.

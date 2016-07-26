@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010-07-06 17:00:04.156.pas,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.pas=E:\Delphi\TerryUnit\Componet\JxdGuiComponets\Demo\JxdGuiDemo.pas</Transaction>
+    <Transaction>2010-07-06 17:00:04.156.dfm,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.dfm=E:\Delphi\TerryUnit\Componet\JxdGuiComponets\Demo\JxdGuiDemo.dfm</Transaction>
+    <Transaction>2010-07-06 17:00:35.406.pas,E:\Delphi\TerryUnit\Componet\JxdGuiComponets\Demo\JxdGuiDemo.pas=E:\Delphi\TerryUnit\Componet\JxdGuiComponets\Demo\uMain.pas</Transaction>
+    <Transaction>2010-07-06 17:00:35.406.dfm,E:\Delphi\TerryUnit\Componet\JxdGuiComponets\Demo\JxdGuiDemo.dfm=E:\Delphi\TerryUnit\Componet\JxdGuiComponets\Demo\uMain.dfm</Transaction>
+    <Transaction>2010-07-06 17:00:47.968.bdsproj,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Project1.bdsproj=E:\Delphi\TerryUnit\Componet\JxdGuiComponets\Demo\JxdGuiDemo.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

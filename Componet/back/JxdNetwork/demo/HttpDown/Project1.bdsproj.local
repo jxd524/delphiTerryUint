@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010-07-23 12:00:57.953.pas,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.pas=E:\Delphi\TerryUnit\Componet\JxdNetwork\demo\HttpDown\Unit1.pas</Transaction>
+    <Transaction>2010-07-23 12:00:57.953.dfm,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Unit1.dfm=E:\Delphi\TerryUnit\Componet\JxdNetwork\demo\HttpDown\Unit1.dfm</Transaction>
+    <Transaction>2010-07-23 12:00:58.828.bdsproj,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Project1.bdsproj=E:\Delphi\TerryUnit\Componet\JxdNetwork\demo\HttpDown\Project1.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

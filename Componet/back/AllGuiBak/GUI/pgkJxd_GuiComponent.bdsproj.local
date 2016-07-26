@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007-10-24 00:04:16.504.bdsproj,C:\Documents and Settings\Administrator\My Documents\Borland Studio Projects\Package1.bdsproj=E:\DelphiProjects\TerryUnit\Componet\GUI\pgkJxd_GuiComponent.bdsproj</Transaction>
+    <Transaction>2007-10-24 00:05:33.695.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\FghyTrayIcon.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdTrayIcon.pas</Transaction>
+    <Transaction>2007-10-24 00:06:10.027.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\YYGUIReg.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdGuiReg.pas</Transaction>
+    <Transaction>2007-10-24 00:12:16.173.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdTrayIcon.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdTrayIcon.pas</Transaction>
+    <Transaction>2007-10-24 00:12:23.073.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdGuiReg.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdGuiReg.pas</Transaction>
+    <Transaction>2007-10-24 00:13:06.516.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdTrayIcon.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdTrayIcon.pas</Transaction>
+    <Transaction>2007-10-24 00:13:10.361.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdGuiReg.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdGuiReg.pas</Transaction>
+    <Transaction>2007-10-24 00:13:49.678.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uFlyLyricShow.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdLyricShow.pas</Transaction>
+    <Transaction>2007-10-24 00:13:55.706.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uParseLyric.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdParseLyric.pas</Transaction>
+    <Transaction>2007-10-24 00:19:59.950.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uFlyCustomButton.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdCustomButton.pas</Transaction>
+    <Transaction>2007-11-02 20:52:35.424.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Unit1.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdParseGradient.pas</Transaction>
+    <Transaction>2007-11-03 02:17:49.113.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdPanel.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdGradientPanel.pas</Transaction>
+    <Transaction>2008-06-26 23:06:39.453.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Unit1.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdScrollBar.pas</Transaction>
+    <Transaction>2009-06-05 17:38:18.008.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uKKGuiDef.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdGuiDef.pas</Transaction>
+    <Transaction>2009-06-05 17:58:10.572.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uKKButton.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdButton.pas</Transaction>
+    <Transaction>2009-06-05 17:58:58.421.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdTrayIcon.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdTrayIcon.pas</Transaction>
+    <Transaction>2009-06-05 17:59:04.480.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdStringGrid.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdStringGrid.pas</Transaction>
+    <Transaction>2009-06-05 17:59:08.346.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdScrollBar.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdScrollBar.pas</Transaction>
+    <Transaction>2009-06-05 17:59:11.170.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdProgressBar.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdProgressBar.pas</Transaction>
+    <Transaction>2009-06-05 17:59:13.653.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdParseLyric.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdParseLyric.pas</Transaction>
+    <Transaction>2009-06-05 17:59:16.447.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdParseGradient.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdParseGradient.pas</Transaction>
+    <Transaction>2009-06-05 17:59:18.881.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdLyricShow.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdLyricShow.pas</Transaction>
+    <Transaction>2009-06-05 17:59:21.705.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdHtmlEdit.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdHtmlEdit.pas</Transaction>
+    <Transaction>2009-06-05 17:59:24.409.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdGuiReg.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdGuiReg.pas</Transaction>
+    <Transaction>2009-06-05 17:59:28.054.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdGradientPanel.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdGradientPanel.pas</Transaction>
+    <Transaction>2009-06-05 17:59:30.547.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdGradientButton.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdGradientButton.pas</Transaction>
+    <Transaction>2009-06-05 17:59:32.861.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdEdit.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdEdit.pas</Transaction>
+    <Transaction>2009-06-05 17:59:35.274.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdCustomButton.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdCustomButton.pas</Transaction>
+    <Transaction>2009-06-05 17:59:37.337.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdCommonMode1.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdCommonMode1.pas</Transaction>
+    <Transaction>2009-06-05 17:59:39.320.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdComboBox.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdComboBox.pas</Transaction>
+    <Transaction>2009-06-05 18:02:05.871.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdStringGrid.pas=</Transaction>
+    <Transaction>2009-06-05 18:03:39.125.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdPanel.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdPanel.pas</Transaction>
+    <Transaction>2009-06-05 18:03:41.959.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdFrameComMode1.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdFrameComMode1.pas</Transaction>
+    <Transaction>2009-06-05 18:03:44.993.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\JxdRadioButton.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdRadioButton.pas</Transaction>
+    <Transaction>2009-06-05 18:04:03.019.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdRadioButton.pas=</Transaction>
+    <Transaction>2009-06-05 18:04:29.758.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdPanel.pas=</Transaction>
+    <Transaction>2009-06-05 18:06:56.168.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdFrameComMode1.pas=</Transaction>
+    <Transaction>2009-06-05 18:07:41.604.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uKKCheckButton.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdCheckButton.pas</Transaction>
+    <Transaction>2009-06-05 18:10:13.652.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdComboBox.pas=</Transaction>
+    <Transaction>2009-06-05 18:10:47.230.pas,E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uKKComboBox.pas=E:\DelphiProjects\TerryUnit\Componet\GUI\Src\uJxdComboBox.pas</Transaction>
+  </Transactions>
+</BorlandProject>

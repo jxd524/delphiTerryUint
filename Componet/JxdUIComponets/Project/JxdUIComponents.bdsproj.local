@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011-10-13 18:39:31.875.bdsproj,C:\Documents and Settings\Administrator\My Documents\RAD Studio\Projects\Package1.bdsproj=E:\Delphi\TerryUnit\Componet\JxdUIComponets\Project\JxdUIComponents.bdsproj</Transaction>
+    <Transaction>2011-10-20 11:18:31.703.pas,E:\Delphi\TerryUnit\Componet\JxdUIComponets\src\uJxdLyricShow.pas=</Transaction>
+    <Transaction>2011-10-20 11:18:33.781.pas,E:\Delphi\TerryUnit\Componet\JxdUIComponets\src\uJxdLyricParse.pas=</Transaction>
+    <Transaction>2011-10-31 12:17:28.562.pas,E:\Delphi\TerryUnit\Componet\JxdUIComponets\src\uJxdComboBox.pas=E:\Delphi\TerryUnit\Componet\JxdUIComponets\src\uJxdGpComboBox.pas</Transaction>
+    <Transaction>2012/01/30 14:26:24.924.pas,E:\Delphi\TerryUnit\Componet\JxdUIComponets\src\uJxdGradientTabSet.pas=E:\Delphi\TerryUnit\Componet\JxdUIComponets\src\uJxdGpTabSet.pas</Transaction>
+    <Transaction>2012/01/30 14:50:11.738.pas,E:\Delphi\TerryUnit\Componet\JxdUIComponets\src\uJxdGpTabSet.pas=</Transaction>
+    <Transaction>2012/01/30 14:50:37.859.pas,E:\Delphi\TerryUnit\Componet\JxdUIComponets\Project\Unit1.pas=E:\Delphi\TerryUnit\Componet\JxdUIComponets\src\uJxdGpTabSet.pas</Transaction>
+  </Transactions>
+</BorlandProject>
